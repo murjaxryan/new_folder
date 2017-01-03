@@ -1,3 +1,6 @@
 [submodule "folder1"]
 	path = folder1
 	url = https://github.com/aigoods/folder1
+[submodule "folder2"]
+	path = folder2
+	url = https://github.com/aigoods/folder2
