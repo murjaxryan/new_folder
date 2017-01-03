@@ -1,0 +1,3 @@
+[submodule "folder1"]
+	path = folder1
+	url = https://github.com/aigoods/folder1
